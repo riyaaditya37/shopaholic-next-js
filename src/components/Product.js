@@ -28,7 +28,7 @@ const Product = ({ id, title, price, description, category, image }) => {
       image,
       hasPrime,
     };
-
+// console.log(product); 
     dispatch(addToBasket(product));
   };
 
