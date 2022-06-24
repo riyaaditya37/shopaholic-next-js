@@ -50,6 +50,7 @@ function ProductFeed({ products }) {
             />
           ))}
     </div>
+    
   );
 }
 
