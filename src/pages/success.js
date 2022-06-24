@@ -18,7 +18,7 @@ function success() {
             </h1>
           </div>
           <p>
-            Thank you for shopping with us, if you would like to explore more head back to Shop more with us!!! Please press the Button below.
+            Thank you for shopping with us, if you would like to explore more head back to Home Page to Shop more with us!!! Please press the Button below .
           </p>
           <button onClick={()=>router.push('/')} className="button mt-8">Go to Home Page </button>
         </div>
